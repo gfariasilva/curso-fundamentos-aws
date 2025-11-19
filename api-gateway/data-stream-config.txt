@@ -1,0 +1,2 @@
+$request.body.data
+$request.body.PartitionKey

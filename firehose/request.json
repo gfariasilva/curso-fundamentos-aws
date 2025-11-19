@@ -1,0 +1,9 @@
+{
+    "PartitionKey": "aluno-1", 
+    "data": 
+        {
+            "id": 101, 
+            "message": "OLA MUNDO STREAM", 
+            "value": 50
+        }
+}
